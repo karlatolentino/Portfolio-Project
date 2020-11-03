@@ -19,9 +19,9 @@
 https://github.com/karlatolentino/portfolio
 
 ## Purpose
-The purpose of this assignment is to demonstrate the skills and abilities I have learned as a **Junior Developer** to prospective employers.
+The purpose of this assignment is to demonstrate the skills and professional knowledge I have learned as a **Junior Developer** to prospective employers.
 
-By planning, designing and developing this portfolio website, it will allow me to present my unique personality as an IT professional and budding **dev** with creative and technical control.
+By planning, designing and developing an online portfolio website, it will allow me to present my unique personality as an IT professional and budding **dev** with creative and technical control.
 
 ## Functionality and Features
 * *Index/Home* page featuring my name, main background image and links to socials and other linked pages displayed on a navigation bar
@@ -42,6 +42,7 @@ By planning, designing and developing this portfolio website, it will allow me t
 
 
 ## Target Audience
-The target audience for the portfolio website
+The target audience for the portfolio website is aimed towards employers looking to engage with a dev and/or IT professional.
 
 ## Tech Stack
+This online portfolio has been created using only HTML and CSS/SCSS.
