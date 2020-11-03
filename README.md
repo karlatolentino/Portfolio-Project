@@ -13,15 +13,26 @@
 - [Tech Stack](#tech-stack)
 
 ## Portfolio Website
-
+[Enter link to deployed website on Netlify]
 
 ## GitHub Repository
 https://github.com/karlatolentino/portfolio
 
 ## Purpose
+The purpose of this assignment is to demonstrate the skills and abilities I have learned as a **Junior Developer** to prospective employers.
 
+By planning, designing and developing this portfolio website, it will allow me to present my unique personality as an IT professional and budding **dev** with creative and technical control.
 
 ## Functionality and Features
+* *Index/Home* page featuring my name, main background image and links to socials and other linked pages displayed on a navigation bar
+
+* *About Me* page detailing personal brand and description
+
+* *Skills & Experience* page detailing developed skills and work/study experience
+
+* *Blog* page with five posts including an image and date stamp for each post
+
+* *Contact* page with forms for user input enquiries
 
 
 ## Sitemap
@@ -31,6 +42,6 @@ https://github.com/karlatolentino/portfolio
 
 
 ## Target Audience
-
+The target audience for the portfolio website
 
 ## Tech Stack
