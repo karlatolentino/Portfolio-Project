@@ -16,7 +16,7 @@
 
 
 ## GitHub Repository
-
+https://github.com/karlatolentino/portfolio
 
 ## Purpose
 
