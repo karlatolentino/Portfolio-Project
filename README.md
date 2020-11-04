@@ -1,5 +1,5 @@
-### T1A2 - Portfolio
-# Created by Karla Tolentino  
+### Created by Karla Tolentino
+# T1A2 - Portfolio  
 
 
 ## Table of Contents
@@ -24,7 +24,7 @@ The purpose of this assignment is to demonstrate the skills and professional kno
 By planning, designing and developing an online portfolio website, it will allow me to present my unique personality as an IT professional and budding **dev** with creative and technical control.
 
 ## Functionality and Features
-* *Index/Home* page featuring my name, main background image and links to socials and other linked pages displayed on a navigation bar
+* *Index/Home* page featuring my name, main background image, logo and links to pages displayed on a navigation bar
 
 * *About Me* page detailing personal brand and description
 

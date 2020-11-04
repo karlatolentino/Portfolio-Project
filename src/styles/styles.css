@@ -1,5 +1,6 @@
 @import "normalize.css";
 
-.nav-header {
-    background-color: aquamarine;
+.logo-img {
+    height: 50px;
+    width: 50px;
 }
