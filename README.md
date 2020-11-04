@@ -28,7 +28,7 @@ By planning, designing and developing an online portfolio website, it will allow
 
 * *About Me* page detailing personal brand and description
 
-* *Skills & Experience* page detailing developed skills and work/study experience
+* *Skills & Experience* page detailing developed skills and work/study experience in an unordered list
 
 * *Blog* page with five posts including an image and date stamp for each post
 
