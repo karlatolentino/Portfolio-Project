@@ -1,36 +1,6 @@
-@import "./normalize.css";
-
-#nav-logo {
-    height: 50px;
-    width: 50px;
-    padding-left: 20px;
-}
-
-.nav-header {
-    background-color: #222222;
-    height: 10vh;
-    width: 100%;
-    display: flex;
-    justify-content: space-between
-}
-
-.nav-header nav {
-    margin-right: 1rem;
-}
-
-
-.nav-items {
-    width: 65%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.nav-items a {
-    color:
-    text-decoration: none;
-    font-size: 1.5rem;
-}
+@import "normalize.css";
+@import "footer.css";
+@import "navbar.css";
 
 .main-bg-img {
     width: 100%;
