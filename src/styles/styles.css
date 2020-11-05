@@ -1,14 +1,8 @@
 @import "./normalize.css";
 
-.nav-logo img {
+#nav-logo {
     height: 50px;
     width: 50px;
-}
-
-.nav-logo {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     padding-left: 20px;
 }
 
@@ -17,7 +11,7 @@
     height: 10vh;
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between
 }
 
 .nav-header nav {
@@ -26,7 +20,7 @@
 
 
 .nav-items {
-    width: 30%;
+    width: 65%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -80,4 +74,56 @@
     padding-left: 100px;
     padding-right: 100px;
     text-align: center;
+}
+
+.contact-section {
+    background-color:#222222;
+    display: flex;
+    height: 90vh;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.contact-section>h1 {
+    margin: 0;
+    align-self: center;
+}
+
+.contact-contents {
+    display: flex;
+    justify-content: space-around;
+    height: 60%;
+}
+
+.contact-contents form {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-form div {
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.contact-message {
+    flex-grow: 1;
+}
+
+.contact-message>textarea {
+    flex-grow: 1;
+}
+
+.submit-button {
+    border-radius: 10px;
+    border: 2px solid #00AA66;
+    background-color: white;
+    color: #00AA66;
+}
+
+.submit-button:hover {
+    background-color: #00AA66;
+    color: white;
+    transition: 1s
 }
