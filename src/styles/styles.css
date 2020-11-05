@@ -1,4 +1,4 @@
-@import "normalize.css";
+@import "./normalize.css";
 
 .nav-logo img {
     height: 50px;
@@ -15,6 +15,7 @@
 .nav-header {
     background-color: #222222;
     height: 10vh;
+    width: 100%;
     display: flex;
     justify-content: space-between;
 }
@@ -47,9 +48,36 @@
     justify-content: center;
     align-items: center;
     background-image: url(../img/akihabara-japan-2019.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .main-bg-img h1, h2 {
     display: inline-block;
     color: white;
+}
+
+.main-bg-img h1 {
+    font-family: 
+}
+
+@media only screen and (min-width: 800px ) {
+
+}
+
+.profile-img {
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.about-me h1, p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
 }
