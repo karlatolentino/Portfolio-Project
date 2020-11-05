@@ -1,6 +1,7 @@
 @import "normalize.css";
 @import "footer.css";
 @import "navbar.css";
+@import "aboutme.css";
 
 .main-bg-img {
     width: 100%;
@@ -35,14 +36,7 @@
     justify-content: center;
 }
 
-.about-me h1, p {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    /* padding-left: 100px;
-    padding-right: 100px; */
-    text-align: center;
-}
+
 
 .contact-section {
     background-color:#222222;
@@ -106,5 +100,15 @@
 }
 
 .about-me-item {
-    margin-left: 20px;
+    margin-left: 30px;
+}
+
+.about-me-section h1,
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding-left: 100px;
+    padding-right: 100px; */
+    text-align: center;
 }
