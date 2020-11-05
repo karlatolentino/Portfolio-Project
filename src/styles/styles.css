@@ -13,7 +13,7 @@
 }
 
 .nav-header {
-    background-color: #c56183;
+    background-color: #222222;
     height: 10vh;
     display: flex;
     justify-content: space-between;
@@ -39,9 +39,17 @@
     padding-right: 20px;
 }
 
-#main-bg-img {
+.main-bg-img {
     width: 100%;
+    height: 90vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-image: url(../img/akihabara-japan-2019.jpg);
+}
+
+.main-bg-img h1, h2 {
+    display: inline-block;
+    color: white;
 }
