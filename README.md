@@ -26,9 +26,9 @@ By planning, designing and developing an online portfolio website, it will allow
 ## Functionality and Features
 * *Index/Home* page featuring my name, main background image, logo and links to pages displayed on a navigation bar
 
-* *About Me* page detailing personal brand and description
+* *About Me* page detailing personal brand and description as well as detailing developed skills, work/study experience
 
-* *Skills & Experience* page detailing developed skills and work/study experience in an unordered list
+* *Projects* page showcasing placeholder projects in the form of interactive images and text
 
 * *Blog* page with five posts including an image and date stamp for each post
 
