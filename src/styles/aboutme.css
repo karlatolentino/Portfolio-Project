@@ -2,13 +2,12 @@
     line-height: 1.5;
     width: 40%;
     margin: 100px auto 100px auto;
-    text-align: left;
 }
 
 .about-me-contents {
     display: flex;
     justify-content: center;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
 
 }
@@ -16,8 +15,6 @@
 .about-me-header {
     text-align: center;
 }
-
-
 
 .skills-container {
     line-height: 1.5;
