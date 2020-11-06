@@ -49,3 +49,23 @@
     color: white;
     transition: 1s
 }
+
+.small-map {
+    border: 0;
+    display: none;
+}
+
+.medium-map {
+    border: 0;
+    display: none;
+}
+
+@media screen and (min-width: 600px) {
+
+    
+
+}
+
+@media screen and (min-width: 800px) {
+
+}

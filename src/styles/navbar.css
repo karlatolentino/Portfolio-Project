@@ -13,6 +13,7 @@
 }
 
 .nav-header {
+    margin: 0;
     background-color: #222222;
     height: 10vh;
     width: 100%;

@@ -28,10 +28,6 @@
     font-family: 
 }
 
-@media only screen and (min-width: 800px ) {
-
-}
-
 .profile-img {
     height: 200px;
     width: 200px;
@@ -39,3 +35,30 @@
     justify-content: center;
 }
 
+@media screen and (min-width: 600px) {
+    .main-bg-img h1 {
+        display: inline-block;
+        color: white;
+        font-size: 4rem;
+    }
+
+    .main-bg-img h2 {
+        display: inline-block;
+        color: white;
+        font-size: 2rem;
+    }
+}
+
+@media screen and (min-width: 800px) {
+
+    .main-bg-img h1 {
+        display: inline-block;
+        color: white;
+        font-size: 5rem;
+    }
+    .main-bg-img h2 {
+        display: inline-block;
+        color: white;
+        font-size: 2rem;
+    }
+}
