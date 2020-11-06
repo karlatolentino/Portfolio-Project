@@ -60,12 +60,25 @@
     display: none;
 }
 
+
+/* MEDIA QUERIES */
 @media screen and (min-width: 600px) {
 
-    
+    .small-map {
+        display: block;
+    }
+    .medium-map {
+        display: none;
+    }
 
 }
 
 @media screen and (min-width: 800px) {
 
+    .small-map {
+        display: none;
+    }
+    .medium-map {
+        display: block;
+    }
 }

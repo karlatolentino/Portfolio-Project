@@ -35,6 +35,8 @@
     justify-content: center;
 }
 
+/* MEDIA QUERIES */
+
 @media screen and (min-width: 600px) {
     .main-bg-img h1 {
         display: inline-block;
