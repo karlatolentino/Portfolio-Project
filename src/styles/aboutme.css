@@ -1,39 +1,45 @@
+.about-me-container {
+    line-height: 1.5;
+    width: 40%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
 .about-me-contents {
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    margin-left: 100px;
-    margin-right: 100px;
+
 }
 
 .about-me-header {
     text-align: center;
 }
 
-.about-me-section {
-    line-height: 1.5;
-    width: 50%;
-    margin: 100px auto 100px auto;
-    text-align: left;
-}
 
-.skills-contents {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-    margin-left: 100px;
-    margin-right: 100px;
+
+.skills-container {
+    line-height: 1.5;
+    width: 40%;
+    margin: 50px auto 100px auto;
+    text-align: left;
 }
 
 .skills-header {
     text-align: center;
 }
 
-.skills-section {
+.skills-contents {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+
+.tech-container {
     line-height: 1.5;
-    width: 50%;
+    width: 40%;
     margin: 100px auto 100px auto;
     text-align: left;
 }
@@ -41,19 +47,11 @@
 .tech-contents {
     display: flex;
     justify-content: center;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
-    margin-left: 100px;
-    margin-right: 100px;
 }
 
 .tech-header {
     text-align: center;
 }
 
-.tech-section {
-    line-height: 1.5;
-    width: 50%;
-    margin: 100px auto 100px auto;
-    text-align: left;
-}
