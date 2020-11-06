@@ -1,15 +1,26 @@
+.profile-img {
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+}
+
 .about-me-container {
     line-height: 1.5;
     width: 40%;
-    margin: 100px auto 100px auto;
+    margin: 50px auto 100px auto;
+    border: solid 5px blueviolet;
 }
 
-.about-me-contents {
+.about-me-item {
     display: flex;
     justify-content: center;
     flex-direction: row;
     align-items: center;
+}
 
+.about-me-container p {
+    text-align: center;
 }
 
 .about-me-header {
@@ -23,6 +34,7 @@
     text-align: left;
 }
 
+
 .skills-header {
     text-align: center;
 }
@@ -33,6 +45,7 @@
     flex-direction: row;
     align-items: center;
 }
+
 
 .tech-container {
     line-height: 1.5;
@@ -50,6 +63,22 @@
 
 .tech-header {
     text-align: center;
+}
+
+div.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+}
+
+.tech-item img {
+    width: 100px;
+    height: 100px;
+}
+
+.caption {
+    display: block;
+    margin-left: 25px;
 }
 
 /* MEDIA QUERIES */
