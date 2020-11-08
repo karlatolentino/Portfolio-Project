@@ -147,13 +147,35 @@ div.item {
 
 /* MEDIA QUERIES */
 @media screen and (max-width: 600px) {
-   .profile-img {
-       height: 1rem;
-       width: 1rem;
-   }
-   h1
+    
+    .main-container {
+        height: auto;
+    }
+    .top-item {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+    }
+    .profile-img {
+        max-width: 100%;
+        height: auto;
+    }
 }
 
-@media screen and (min-width: 800px) {
-   
+
+@media screen and (max-width: 800px) {
+    .blog-container {
+        display: flex;
+        justify-content: flex-start;
+        flex-direction: column;
+        flex-wrap: wrap;
+        height: auto;
+        width: 100%
+    }
+    img {
+        max-width: 100%;
+        height: auto;
+    }
 }
