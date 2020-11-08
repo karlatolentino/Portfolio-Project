@@ -23,7 +23,6 @@
 .contact-contents {
     display: flex;
     justify-content: center;
-    /* height: 60%; */
 }
 
 .contact-contents form {
