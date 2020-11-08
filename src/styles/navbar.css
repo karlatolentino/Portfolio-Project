@@ -42,10 +42,14 @@
 }
 
 /* MEDIA QUERIES */
-@media screen and (min-width: 600px) {
-
+@media screen and (max-width: 1030px) and (min-width: 820px) {
+    width: 300px;
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (max-width: 819px) and (min-width: 720px) {
+    width: 270px;
+}
 
+@media screen and (max-width: 470px) and (min-width: 300px) {
+    width: 240px;
 }

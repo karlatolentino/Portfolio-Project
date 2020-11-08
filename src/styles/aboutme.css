@@ -4,6 +4,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    background-color:#81ACC8;
 }
 
 .top-item {
@@ -32,7 +33,7 @@
     line-height: 1.5;
     width: 40%;
     margin: 50px auto 0 auto;
-    background-color: rgba(221, 109, 152, 0.5);
+    background-color: rgba(221, 109, 152, 0.8);
     border: 2px solid black;
     color: black;
 }
@@ -60,7 +61,7 @@
     line-height: 1.5;
     width: 40%;
     margin: 50px auto 0 auto;
-    background-color: rgba(221, 109, 152, 0.5);
+    background-color: rgba(221, 109, 152, 0.8);
     border: 2px solid black;
     color: black;
 }

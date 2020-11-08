@@ -1,8 +1,41 @@
-/* MEDIA QUERIES */
-@media screen and (min-width: 600px) {
 
+.blog-container {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 100%;
+    background-image: url(../img/silhoutte-mountain.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color:#81ACC8;
 }
 
-@media screen and (min-width: 800px) {
+.blog-post {
+    line-height: 1.5;
+    width: 40%;
+    margin: 50px auto 0 auto;
+    background-color: rgba(221, 109, 152, 0.8);
+    border: 2px solid black;
+    color: black;
+    padding: 5px;
     
+}
+
+.blog-post:hover {
+    opacity: 0.4;
+}
+
+/* MEDIA QUERIES */
+@media screen and (max-width: 1030px) and (min-width: 820px) {
+    width: 300px;
+}
+
+@media screen and (max-width: 819px) and (min-width: 720px) {
+    width: 270px;
+}
+
+@media screen and (max-width: 470px) and (min-width: 300px) {
+    width: 240px;
 }

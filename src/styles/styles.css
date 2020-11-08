@@ -22,38 +22,23 @@
 .main-bg-img h1, h2 {
     display: inline-block;
     color: white;
+    
+
 }
 
 .main-bg-img h1 {
-    font-family: 
+    font-size: 4rem;
 }
 
 /* MEDIA QUERIES */
-
-@media screen and (min-width: 600px) {
-    .main-bg-img h1 {
-        display: inline-block;
-        color: white;
-        font-size: 4rem;
-    }
-
-    .main-bg-img h2 {
-        display: inline-block;
-        color: white;
-        font-size: 2rem;
-    }
+@media screen and (max-width: 1030px) and (min-width: 820px) {
+    
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (max-width: 819px) and (min-width: 720px) {
+    
+}
 
-    .main-bg-img h1 {
-        display: inline-block;
-        color: white;
-        font-size: 5rem;
-    }
-    .main-bg-img h2 {
-        display: inline-block;
-        color: white;
-        font-size: 2rem;
-    }
+@media screen and (max-width: 470px) and (min-width: 300px) {
+    width: 240px;
 }
