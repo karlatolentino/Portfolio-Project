@@ -10,6 +10,7 @@
 .top-item {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     margin: 0;
@@ -146,7 +147,35 @@ div.item {
 }
 
 /* MEDIA QUERIES */
+@media screen and (max-width: 1200px) {
+    .top-item {
+        width: 100%;
+    }
+}
+
 @media screen and (max-width: 600px) {
+    .main-container {
+        height: auto;
+    }
+    .top-item {
+        flex-direction: column;
+    }
+    .about-me-container {
+        width: 75%;
+        height: auto;
+    }
+    .skills-container {
+        width: 75%;
+        height: auto;
+    }
+    .profile-img {
+        width: auto;
+        height: auto;
+    }
+}
+
+
+/* @media screen and (max-width: 600px) {
     
     .main-container {
         height: auto;
@@ -178,4 +207,4 @@ div.item {
         max-width: 100%;
         height: auto;
     }
-}
+} */
