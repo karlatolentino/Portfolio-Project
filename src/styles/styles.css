@@ -31,14 +31,12 @@
 }
 
 /* MEDIA QUERIES */
-@media screen and (max-width: 1030px) and (min-width: 820px) {
-    
+@media screen and (max-width: 1200px) {
+   
 }
 
-@media screen and (max-width: 819px) and (min-width: 720px) {
-    
-}
-
-@media screen and (max-width: 470px) and (min-width: 300px) {
-    width: 240px;
+@media screen and (max-width: 600px) {
+    .main-bg-img h1 {
+        font-size: 3rem;
+    }
 }
