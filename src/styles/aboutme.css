@@ -163,15 +163,6 @@ div.item {
     .main-container h1 {
         font-size: 2rem;
     }
-    .main-container {
-        height: auto;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .main-container {
-        height: auto;
-    }
     .top-item {
         flex-direction: column;
     }
@@ -186,5 +177,11 @@ div.item {
     .profile-img {
         width: 50%;
         height: auto;
+    }
+    .tech-container h1 {
+        color: white;
+    }
+    .tech-contents {
+        color: white;
     }
 }
