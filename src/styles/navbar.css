@@ -43,16 +43,16 @@
 
 /* MEDIA QUERIES */
 @media screen and (max-width: 1200px) {
-   h1 {
+   nav h1 {
        font-size: 3rem;
    
 }
 
 @media screen and (max-width: 600px) {
     .nav-items a {
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
-    h1, h2 {
+    nav h1, h2 {
         text-align: center;
     }
 }

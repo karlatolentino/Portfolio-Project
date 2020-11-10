@@ -72,7 +72,7 @@
 /* MEDIA QUERIES */
 @media screen and (max-width: 600px) {
     .contact-section {
-        height: 90vh;
+        height: 70vh;
     }
 
     .contact-contents {
@@ -82,7 +82,7 @@
         flex-direction: column;
     }
     .small-map {
-        display: block;
+        display: none;
     }
 
     .medium-map {
@@ -94,7 +94,7 @@
 @media screen and (min-width: 600px) {
 
     .small-map {
-        display: none;
+        display: block;
     }
     .medium-map {
         display: none;
