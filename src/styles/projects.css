@@ -21,6 +21,7 @@
 .projects-container {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     margin-top: 50px;
@@ -37,9 +38,9 @@
     background-color: transparent;
     width: 350px;
     height: 200px;
-    border: 2px solid black;
     color: black;
     perspective: 1000px;
+    margin: 10px;
 }
 
 .flip-card-inner {
@@ -52,6 +53,10 @@
 }
 
 .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+.flip-card:active .flip-card-inner {
     transform: rotateY(180deg);
 }
 
@@ -77,10 +82,16 @@
 
 
 /* MEDIA QUERIES */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 738px) {
+    .project-bg {
+        height: auto;
+        width: 100%;
+    }
+}
 
-
-
-@media screen and (max-width: 800px) {
-    
+@media screen and (max-width: 468px) {
+    .project-bg {
+        height: auto;
+        width: 100%;
+    }
 }

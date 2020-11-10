@@ -45,4 +45,6 @@ By planning, designing and developing an online portfolio website, it will allow
 The target audience for the portfolio website is aimed towards employers looking to engage with a dev and/or IT professional.
 
 ## Tech Stack
-This online portfolio has been created using only HTML and CSS/SCSS.
+This online portfolio has been created using only HTML and CSS.
+Deployment
+GitHub

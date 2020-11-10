@@ -30,23 +30,21 @@
 /* MEDIA QUERIES */
 @media screen and (max-width: 600px) {
     .blog-container {
-        display: flex;
-        justify-content: flex-start;
-        flex-direction: column;
-        flex-wrap: wrap;
-        height: auto;
         width: 100%
     }
     img {
         max-width: 100%;
         height: auto;
     }
+    .blog-post {
+        width: 80%;
+    }
 }
 
 
 @media screen and (max-width: 800px) {
     img {
-        max-width: 100%;
+        width: 80%;
         height: auto;
     }
 }
