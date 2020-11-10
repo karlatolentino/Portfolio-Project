@@ -68,6 +68,13 @@
     display: none;
 }
 
+.contact-links {
+    padding: 5px;
+}
+
+img.github {
+    padding: 5px;
+}
 
 /* MEDIA QUERIES */
 @media screen and (max-width: 600px) {
