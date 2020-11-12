@@ -15,12 +15,12 @@
     align-items: center;
     margin: 0;
 }
+
 .bottom-item {
     display: flex;
     flex-direction: column;
     align-items: center;
     margin: 0;
-    
 }
 
 .profile-img {
@@ -67,9 +67,11 @@
     border: 2px solid black;
     color: black;
 }
+
 .skills-container p {
     text-align: center;
 }
+
 .skills-header {
     text-align: center;
 }
@@ -81,15 +83,12 @@
     align-items: center;
 }
 
-
 .tech-container {
     line-height: 1.5;
     width: 40%;
     /* margin: 10px auto auto auto; */
     text-align: left;
 }
-
-
 
 .tech-contents {
     display: flex;
