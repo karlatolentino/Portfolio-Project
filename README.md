@@ -36,9 +36,13 @@ By planning, designing and developing an online portfolio website, it will allow
 
 
 ## Sitemap
-
+Sitemap
+<img src="./docs/screenshots/sitemap-screenshot.png">
 
 ## Screenshots
+Trello Board
+<img src="./docs/screenshots/trelloboard-screenshot.png">
+
 
 
 ## Target Audience
