@@ -27,13 +27,13 @@ By planning, designing and developing an online portfolio website, it will allow
 ## Functionality and Features
 * *Index/Home* page featuring my name, main background image, logo and links to pages displayed on a navigation bar
 
-* *About Me* page detailing personal brand and description as well as detailing developed skills, work/study experience
+* *About Me* page detailing personal brand and description as well as detailing developed skills, work/study experience. Resume is linked through a button
 
-* *Projects* page showcasing placeholder projects in the form of interactive images and text
+* *Projects* page showcasing placeholder projects in the form of interactive flip cards with images and text
 
-* *Blog* page with five posts including an image and date stamp for each post
+* *Blog* page with five posts including an image, date stamp and text for each post
 
-* *Contact* page with forms for user input enquiries
+* *Contact* page with contact form, embedded map and footer containing graphics that link to social pages GitHub and LinkedIn
 
 
 ## Sitemap
@@ -45,17 +45,18 @@ Trello Board
 <img src="./docs/screenshots/trello-board-screenshot.png">
 
 Wireframes
-
-
-
+<img src="./docs/screenshots/wireframe-index-screenshot.png">
+<img src="./docs/screenshots/wireframe-aboutme-screenshot.png">
+<img src="./docs/screenshots/wireframe-projects-screenshot.png">
+<img src="./docs/screenshots/wireframe-blog1-screenshot.png">
+<img src="./docs/screenshots/wireframe-blog2-screenshot.png">
+<img src="./docs/screenshots/wireframe-contact-screenshot.png">
 
 ## Target Audience
 The target audience for the portfolio website is aimed towards employers looking to engage with a dev and/or IT professional.
 
 ## Tech Stack
-This online portfolio has been created using only HTML and CSS.
-Deployment
-GitHub
-
+This online portfolio has been created using only HTML and CSS and deployed using Netlify and linked via GitHub.
 
 ## Resources
+- 
