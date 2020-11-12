@@ -11,9 +11,10 @@
 - [Screenshots](#screenshots)
 - [Target Audience](#target-audience)
 - [Tech Stack](#tech-stack)
+- [Resources](#resources)
 
 ## Portfolio Website
-[Enter link to deployed website on Netlify]
+https://karlas-portfolio.netlify.app/
 
 ## GitHub Repository
 https://github.com/karlatolentino/portfolio
@@ -41,7 +42,10 @@ Sitemap
 
 ## Screenshots
 Trello Board
-<img src="./docs/screenshots/trelloboard-screenshot.png">
+<img src="./docs/screenshots/trello-board-screenshot.png">
+
+Wireframes
+
 
 
 
@@ -52,3 +56,6 @@ The target audience for the portfolio website is aimed towards employers looking
 This online portfolio has been created using only HTML and CSS.
 Deployment
 GitHub
+
+
+## Resources
