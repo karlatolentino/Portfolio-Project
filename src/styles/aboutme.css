@@ -30,6 +30,11 @@
     justify-content: center;
 }
 
+.profile-img:hover {
+    animation: swing;
+    animation-duration: 1s;
+}
+
 .about-me-container {
     line-height: 1.5;
     width: 40%;
@@ -37,10 +42,6 @@
     background-color: rgba(221, 109, 152, 0.8);
     border: 2px solid black;
     color: black;
-}
-
-.about-me-container:hover {
-    opacity: 0.4;
 }
 
 .about-me-item {
@@ -88,9 +89,7 @@
     text-align: left;
 }
 
-.skills-container:hover {
-    opacity: 0.4;
-}
+
 
 .tech-contents {
     display: flex;
@@ -112,6 +111,11 @@ div.item {
 .tech-item img {
     width: 100px;
     height: 100px;
+}
+
+.tech-item img:hover {
+    animation: rubberBand;
+    animation-duration: 1s;
 }
 
 .caption {

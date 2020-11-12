@@ -78,7 +78,7 @@ img.github {
 
 img.github:hover {
     animation: swing;
-    animation-duration: 2s;
+    animation-duration: 1s;
 }
 
 /* MEDIA QUERIES */
