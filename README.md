@@ -38,13 +38,16 @@ By planning, designing and developing an online portfolio website, it will allow
 
 ## Sitemap
 Sitemap
+
 <img src="./docs/screenshots/sitemap-screenshot.png">
 
 ## Screenshots
 Trello Board
+
 <img src="./docs/screenshots/trello-board-screenshot.png">
 
 Wireframes
+
 <img src="./docs/screenshots/wireframe-index-screenshot.png">
 <img src="./docs/screenshots/wireframe-aboutme-screenshot.png">
 <img src="./docs/screenshots/wireframe-projects-screenshot.png">
