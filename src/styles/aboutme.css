@@ -159,6 +159,12 @@ div.item {
     .main-container {
         height: auto;
     }
+    .tech-container h1 {
+        color: white;
+    }
+    .tech-contents {
+        color: white;
+    }
 }
 
 @media screen and (max-width: 768px) {
