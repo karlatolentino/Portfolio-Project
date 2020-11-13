@@ -25,15 +25,15 @@ The purpose of this assignment is to demonstrate the skills and professional kno
 By planning, designing and developing an online portfolio website, it will allow me to present my unique personality as an IT professional and budding **dev** with creative and technical control.
 
 ## Functionality and Features
-* *Index/Home* page featuring my name, main background image, logo and links to pages displayed on a navigation bar
+* *Index/Home* page featuring my name, main background image, logo and links to pages displayed on a navigation bar.
 
-* *About Me* page detailing personal brand and description as well as detailing developed skills, work/study experience. Resume is linked through a button
+* *About Me* page detailing personal brand and description as well as detailing developed skills, work/study experience. My resume is linked through a button under skills & experience.
 
-* *Projects* page showcasing placeholder projects in the form of interactive flip cards with images and text
+* *Projects* page showcasing placeholder projects in the form of interactive flip cards with images and text.
 
-* *Blog* page with five posts including an image, date stamp and text for each post
+* *Blog* page with five posts including an image, date stamp and text for each post.
 
-* *Contact* page with contact form, embedded map and footer containing graphics that link to social pages GitHub and LinkedIn
+* *Contact* page with contact form, embedded map and footer containing graphics that link to social pages GitHub and LinkedIn.
 
 
 ## Sitemap
