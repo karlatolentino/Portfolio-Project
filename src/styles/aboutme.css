@@ -95,6 +95,7 @@
     justify-content: center;
     flex-direction: row;
     align-items: center;
+    color: white;
 }
 
 .tech-header {
