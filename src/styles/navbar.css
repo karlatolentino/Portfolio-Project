@@ -8,6 +8,7 @@
     margin-top: 20px;
 }
 
+/* Nav Header */
 .nav-header {
     margin: 0;
     background-color: #222222;
@@ -22,7 +23,7 @@
     margin-right: 1rem;
 }
 
-
+/* Nav links */
 .nav-items {
     width: 65%;
     display: flex;
@@ -36,6 +37,7 @@
     font-size: 1.5rem;
 }
 
+/* Nav interactivity */
 .nav-items a:hover {
     animation: headShake;
     animation-duration: 2s;

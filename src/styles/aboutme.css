@@ -1,3 +1,4 @@
+/* Background image component */
 .main-container {
     height: 100vh;
     background-image: url(../img/nz-mountains.jpeg);
@@ -7,6 +8,7 @@
     background-color:#81ACC8;
 }
 
+/* Separates description containers from tech stack */
 .top-item {
     display: flex;
     flex-direction: row;
@@ -23,6 +25,7 @@
     margin: 0;
 }
 
+/* Image component */
 .profile-img {
     height: 200px;
     width: 200px;
@@ -30,11 +33,13 @@
     justify-content: center;
 }
 
+/* Image interactivity */
 .profile-img:hover {
     animation: swing;
     animation-duration: 1s;
 }
 
+/* About Me section */
 .about-me-container {
     line-height: 1.5;
     width: 40%;
@@ -59,6 +64,7 @@
     text-align: center;
 }
 
+/* Skills section */
 .skills-container {
     line-height: 1.5;
     width: 40%;
@@ -83,10 +89,10 @@
     align-items: center;
 }
 
+/* Tech stack component */
 .tech-container {
     line-height: 1.5;
     width: 40%;
-    /* margin: 10px auto auto auto; */
     text-align: left;
 }
 
@@ -109,6 +115,7 @@ div.item {
     text-align: center;
 }
 
+/* Tech stack image interactivity */
 .tech-item img {
     width: 100px;
     height: 100px;
@@ -124,6 +131,7 @@ div.item {
     margin-left: 25px;
 }
 
+/* Resume button component */
 .myButton {
     box-shadow: inset 0px 1px 0px 0px #fbafe3;
     background: linear-gradient(to bottom, #ff5bb0 5%, #ef027d 100%);
