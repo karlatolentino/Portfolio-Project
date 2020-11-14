@@ -3,11 +3,13 @@
     box-sizing: border-box;
 }
 
+/* Project header component */
 .project-header {
     text-align: center;
     margin: 0
 }
 
+/* Background image component */
 .project-bg {
     height: 90vh;
     width: 100%;
@@ -32,6 +34,7 @@
     font-size: 16px;
 }
 
+/* Flip card component */
 .flip-card {
     background-color: transparent;
     width: 350px;
@@ -50,6 +53,7 @@
     transform-style: preserve-3d;
 }
 
+/* Flip card hover interactivity */
 .flip-card:hover .flip-card-inner {
     transform: rotateY(180deg);
 }
