@@ -1,0 +1,527 @@
+commit ed7dea00090d2c2045065b708757f033c86fca0d
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sat Nov 14 11:34:39 2020 +1100
+
+    finalised README.md
+
+commit f337b9ce30efe0f2aec059a5bd0b8b13bfd80db1
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sat Nov 14 11:22:18 2020 +1100
+
+    added gitlog.txt file to root folder
+
+commit 07fb7b89f235ebf3bd6a2f3dc0c5234f219453d4
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sat Nov 14 11:18:32 2020 +1100
+
+    updated contact form message
+
+commit 02c802ee0d4138cfcf31d076093b920b24c68d5d
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sat Nov 14 11:16:59 2020 +1100
+
+    updated SRI sha512 sha384 sha256 hashes on styles.css
+
+commit 22a30dbbb8bddeea94f8abe2b890a96aff5dfb75
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sat Nov 14 11:11:37 2020 +1100
+
+    updated SRI sha512 sha384 sha256 hashes on styles.css
+
+commit 4c344cbe13ae74279b13f59befcba1026a18ab41
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sat Nov 14 11:05:57 2020 +1100
+
+    updated comments in all CSS files
+
+commit 411072c99a059f81bb4c97ae56669e39437c809d
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sat Nov 14 10:43:37 2020 +1100
+
+    updated SRI hashes on favicon link
+
+commit fe4bda86b3780f08725c3d4928db83429cc0219e
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sat Nov 14 10:38:54 2020 +1100
+
+    updated SRI sha512 hash on styles.css
+
+commit 1c54e088cd639a32f9fc44cf4901a2e7926c1dbb
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sat Nov 14 10:35:02 2020 +1100
+
+    updated SRI sha384 hash on cdn
+
+commit f3855e4c4aab96e321920fecf5c46e908e3b1372
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sat Nov 14 10:33:44 2020 +1100
+
+    updated SRI sha384 hash on cdn
+
+commit cb94af8a66b89e5e55631a3abf03201b2cb2fa28
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sat Nov 14 10:31:25 2020 +1100
+
+    updated SRI sha256 hash on styles.css
+
+commit 8e57141275b1225618297614011fd3838c8c5c10
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sat Nov 14 10:26:18 2020 +1100
+
+    updated SRI sha512 hash on styles.css
+
+commit 1c34310d4d7a4b5250fa2c073795b5defbc37699
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sat Nov 14 10:22:22 2020 +1100
+
+    added SRI hash sha384 to CDN animate.css
+
+commit 6152c890f1aac884f71a1ac4d022b5cdc02283e8
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sat Nov 14 10:21:48 2020 +1100
+
+    added SRI hash sha384 to CDN animate.css
+
+commit fbcfd2054219f5f24d3cabff152b84c2580abb09
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sat Nov 14 10:20:42 2020 +1100
+
+    added SRI hash sha384 to CDN animate.css
+
+commit 9508941fe596df417f328cfb2eb03256700f4dc0
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sat Nov 14 10:19:32 2020 +1100
+
+    added SRI hash sha384 to CDN animate.css
+
+commit c89168ebd237171240ea842027b683c6b20f5ab9
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sat Nov 14 10:16:46 2020 +1100
+
+    added SRI hash sha384 to CDN animate.css
+
+commit e1f8f0281589f4ae7045f9ae9ba8a1d7910aaddd
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sat Nov 14 10:05:08 2020 +1100
+
+    added SRI sha384 and sha256 hashes to favicon link
+
+commit 292d7a944c1bd011619c8eefb497d2894d0784cd
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sat Nov 14 09:59:21 2020 +1100
+
+    added SRI sha512 hash for favicon
+
+commit e431d6e010a998b88921e87fa8df7b561850405c
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sat Nov 14 09:49:46 2020 +1100
+
+    generated fallback SRI sha256 hash for styles.css
+
+commit 562008e48de33f9e6b39fdf2387f4466ebe24174
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sat Nov 14 09:36:17 2020 +1100
+
+    added SRI sha512 hash as primary sri
+
+commit 158ec51dc12ff8eb48dd3dc1c8c325ee9ab0b140
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 13 16:33:11 2020 +1100
+
+    updated sri
+
+commit 46807c29490467f350d14cc3092a099aaadb0744
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 13 16:31:20 2020 +1100
+
+    updated integrity on animate.css stylesheet
+
+commit dc10bd71b13444e5aeaa74bb02cca2e93f88cc9d
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 13 16:22:08 2020 +1100
+
+    added new sha384 sri
+
+commit bcc47659dde421af1d8e8fdcda2223893b01b1ee
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 13 16:18:58 2020 +1100
+
+    deleted integrity hash
+
+commit 00d6d331ab734530550092fc04b1354e320a3b36
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 13 16:15:00 2020 +1100
+
+    generated new sha384 sri
+
+commit a673ad1032c65bc140e437bc4ffc3da60c7a1fad
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 13 16:12:13 2020 +1100
+
+    updated sha384 sri
+
+commit 6d4432ba8c2f16332a1b4266d342f9ebd33d6152
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 13 16:08:44 2020 +1100
+
+    updated sha384 sri
+
+commit cb9160baf79a2ce82de8b684d34670c0be7cf733
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 13 15:59:58 2020 +1100
+
+    updated SRI hash
+
+commit 718baade065e4bd67608c2a54b11c3eb6d33fa64
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 13 15:30:58 2020 +1100
+
+    updated README.md
+
+commit 5f0a67f1d5a31da73c14a39def8e7b3799a5cd95
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 13 15:26:48 2020 +1100
+
+    updated README.md
+
+commit c2cd688b427c027c1d26f27b4397ff29b5754a59
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 13 14:24:53 2020 +1100
+
+    white text color in tech stack
+
+commit 53ef347d8eb3e47010f550536b2072ae3e8f8f4b
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 13 14:23:15 2020 +1100
+
+    changed tech stack header color to white
+
+commit 00feb8e63eb4dcf14b3546d9b6963b31c0033374
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 13 14:21:33 2020 +1100
+
+    updated README.md and text color in About Me
+
+commit 03d252ac034b4112b7e9647d53421a45c2c819b2
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 13 06:24:10 2020 +1100
+
+    updated README.md
+
+commit 9259be98d82e0a144b96e293ebb8c4c4ceee4912
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 13 06:02:16 2020 +1100
+
+    fixed spacing in css
+
+commit c5cd710e6d34a1b46982e5452bcc8b6084bc01b0
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Thu Nov 12 17:11:55 2020 +1100
+
+    updated SRI hash
+
+commit fc327a983b9704ec9d8c5658bf0631914adbbc67
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Thu Nov 12 15:14:43 2020 +1100
+
+    added resume from assets file in about me link
+
+commit 636af97c1941e0e533d481d0086ce9a4b2d5a92c
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Thu Nov 12 14:19:48 2020 +1100
+
+    generated SRI hash
+
+commit bda9a55cca794cca6c30db5c95b57b38bdf7f1d9
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Thu Nov 12 13:35:53 2020 +1100
+
+    added About Me content description
+
+commit f057d2a27eb77da69c68e4bdc6574816dcf9bef6
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Thu Nov 12 12:28:55 2020 +1100
+
+    added sitemap screenshot
+
+commit fdf64741a37969164f869f2b79af412752edee94
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Thu Nov 12 11:58:06 2020 +1100
+
+    added CSS animation effects for about me, projects and contact link hovers
+
+commit e637bf0fb5a4a16eb6ca8936f06171f10519b437
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Thu Nov 12 10:26:04 2020 +1100
+
+    fixed responsive nav bar logo
+
+commit 9a3f276bb73174dbdaf6d5772755473a23f983b9
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Thu Nov 12 09:40:54 2020 +1100
+
+    fixed responsive nav logo issue for small mobile
+
+commit 21f78cf82a273b75dfdc98e7ec0a0586327636ff
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Tue Nov 10 16:37:22 2020 +1100
+
+    added contact links in footer
+
+commit d76f635ecdc95bea20322ed231edd4cb1608f847
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Tue Nov 10 16:22:43 2020 +1100
+
+    fixed responsive map in tablet/phone view
+
+commit 0215f9bbb92ef49c84cb3c452a9045f20857ba36
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Tue Nov 10 15:48:43 2020 +1100
+
+    fixed responsive issues in projects page, added margins to flip cards
+
+commit 2b6f74b2ca46b795703aa2272ceb7c0d64f09880
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Tue Nov 10 11:34:25 2020 +1100
+
+    made tech stack font color white for visibility on responsive pages
+
+commit 8490f329decbe298d02546641df3796edd612452
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Tue Nov 10 11:30:39 2020 +1100
+
+    added Poppins font family to webpage
+
+commit b210996fff1b03be9ae4fefdd9e1bea4e7543005
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Mon Nov 9 07:20:02 2020 +1100
+
+    fixed responsive background in about me page
+
+commit 24feb990fd5dfe481b25dc8df52cbd449dd6c849
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Mon Nov 9 06:46:14 2020 +1100
+
+    added responsive width to containers in About Me page
+
+commit 01012db56af39f856cc27f446b5ca7852ebac1a0
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sun Nov 8 20:44:59 2020 +1100
+
+    fixed responsiveness on blog, about me pages; added link to view resume that opens in new tab
+
+commit ab3387d0c2902d73b78c78c8530def75d7ba8693
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sun Nov 8 19:55:28 2020 +1100
+
+    added blog placeholder content and flexbox layout
+
+commit 38153d5796724dc4cb6908bd9eca11db9f3b96cf
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sun Nov 8 13:29:09 2020 +1100
+
+    added pink button, fixed layout for About page
+
+commit 066d6274839f78457cb016572517574ac51f963d
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sun Nov 8 12:31:09 2020 +1100
+
+    added footer to contact page
+
+commit 68560c7a1d78513d3619b60f4cbd50e1ab3d0f78
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sun Nov 8 11:53:59 2020 +1100
+
+    added background images to pages, fixed layout for contact page, added box backgrounds for containers in AboutMe
+
+commit 3c16ded53dc71f4ca216e020df6ab03257c76e4b
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sat Nov 7 10:49:08 2020 +1100
+
+    added border to about me section, added tech stack vectors with text caption underneathe
+
+commit e15d2abf571425eeb3cfba55d668c22e6f0cd636
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Sat Nov 7 10:06:18 2020 +1100
+
+    added container items in projects.html and hover effect
+
+commit c14fe32c871c9a305a0404d0c3865ba87545bd34
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 6 17:11:10 2020 +1100
+
+    changed animation css for contact map
+
+commit 77ff6189c2d8bd246ac16a11cdbcd48a0e2b28d2
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 6 17:01:16 2020 +1100
+
+    fixed media queries for Contact Me
+
+commit 464ad6a8b218b6a158511a9000cc4a6c230cc12c
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 6 15:44:07 2020 +1100
+
+    centered contact-section form and map
+
+commit 26f41eb4f75d6cc6c77648426821869deb418289
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 6 15:33:26 2020 +1100
+
+    added media query code in all linked pages
+
+commit bfd7791dc090cfbe64dd91bc0c3fe42945e7b8d3
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 6 15:24:00 2020 +1100
+
+    added media queries for main-bg-img on index page
+
+commit 2c384b94fd8976cad9515883837b05444c90beee
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 6 15:06:27 2020 +1100
+
+    updated map location on contacts page
+
+commit 859ccc58b7b801294f211377e481c511323b06d3
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 6 15:02:47 2020 +1100
+
+    added contact.css, added map on contact page
+
+commit e0836f2720b8bbad1d7613ead768e79d62b1e0c2
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 6 13:10:10 2020 +1100
+
+    started projects css and html files, created overlay animation on project images
+
+commit a9d10052906a5eb37088caccdc39b835160928ec
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 6 12:07:18 2020 +1100
+
+    fixed image margin error
+
+commit 67111a3fe08ef2c0bfe2a013f3b622032c7914ce
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Fri Nov 6 10:47:54 2020 +1100
+
+    added content for aboutme page, created aboutme.css file and imported file into styles.css
+
+commit b1a6668e501f171c03403a318f75de9bb392d5f8
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Thu Nov 5 16:46:35 2020 +1100
+
+    fixed About Me item alignment
+
+commit 6029c74ee009c9106d7104c4af901719f4f0d1ac
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Thu Nov 5 16:39:03 2020 +1100
+
+    created containers for aboutme.html, centered content item and picture
+
+commit 71b088ad136a432e46c0dc1633d2ea01e8d3f413
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Thu Nov 5 16:13:37 2020 +1100
+
+    created navbar.css and footer.css, imported files in main styles.css
+
+commit ea7676ec105df8fc2702de79faa1b490b9b852bd
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Thu Nov 5 15:55:16 2020 +1100
+
+    updated README.md file
+
+commit baf34d32476ac4686b14526059e13f2fc46192a0
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Thu Nov 5 15:53:52 2020 +1100
+
+    fixed broken projects.html hyperlink
+
+commit e4c83e5c865fa1218b51e81013609ff8225609d7
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Thu Nov 5 15:47:47 2020 +1100
+
+    fixed mobile first response in header/nav. Changed skills-xp.html page to projects.html page
+
+commit f99075c7143fc6a936966a4f520d9aca50ee6b25
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Thu Nov 5 15:26:46 2020 +1100
+
+    trying to fix responsive header issues
+
+commit db4e3a7293dbb7abece5b9544d2d838cae3c146c
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Thu Nov 5 12:41:49 2020 +1100
+
+    added forms on Contact page and added content in About Me page
+
+commit d2de05f4de96cab1fd0d86451cb13867ba27dca0
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Thu Nov 5 11:29:46 2020 +1100
+
+    changed nav header color and centred main bg img
+
+commit 001e3335844b6e6c7f0d07c91007bacce05ba4db
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Thu Nov 5 11:20:31 2020 +1100
+
+    added main bg image for index page
+
+commit e7527350be1621696a268ce70032d715bc15f6cb
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Thu Nov 5 10:51:35 2020 +1100
+
+    added logo onto page
+
+commit 3a5be0f47d2e7f272cbfba6795f10ee592158d42
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Thu Nov 5 10:38:49 2020 +1100
+
+    added normalize.css content
+
+commit c4d64a9165baf9e41e73ba965e03c050acbd9894
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Thu Nov 5 10:30:00 2020 +1100
+
+    created a normalised stylesheet
+
+commit c22b19de1c8e1f2d7c3146f0fc471180cd3ecb2d
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Thu Nov 5 10:21:13 2020 +1100
+
+    created about me, blog, contact and skills pages
+
+commit 00b7a28b5e54b51a053c3c6790ffd71c710afbc0
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Thu Nov 5 09:36:52 2020 +1100
+
+    started index html layout
+
+commit fae2f3ba5f17b18be93d31935ee22f0533bd7909
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Tue Nov 3 21:21:56 2020 +1100
+
+    updated README.md
+
+commit 6c5d4fd33155c869113accf1f9f65a3cf6461b74
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Tue Nov 3 21:16:53 2020 +1100
+
+    updated README.md file
+
+commit 3625d69a670d7dda0429b59ec15b584a4e79ff7f
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Tue Nov 3 20:48:26 2020 +1100
+
+    added github link to README
+
+commit 66301c53df0112db2727a815747d7c15eefaaf1e
+Author: “Karla <“karlamariztolentino@gmail.com”>
+Date:   Tue Nov 3 20:42:47 2020 +1100
+
+    added headings to README.md
+
+commit c8dc621f0ca8f0ac916a2bfe9e9b745883d7f606
+Author: karlatolentino <karlamariztolentino@gmail.com>
+Date:   Tue Nov 3 19:42:46 2020 +1100
+
+    first commit
